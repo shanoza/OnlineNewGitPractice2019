@@ -1,1 +1,4 @@
-Apple
+apple
+mango 
+kiwi
+orange 
