@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ffdba11-e4cf-42cd-81a8-bdc1d50045cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/color.txt" beforeDir="false" afterPath="$PROJECT_DIR$/color.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cars.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cars.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585180238375</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New Commit My Master">
+      <created>1585181862798</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585181862798</updated>
+    </task>
+    <task id="LOCAL-00005" summary="New Commit My Master">
+      <created>1585182013648</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585182013648</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -104,10 +118,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1583976054772" />
-    <state x="295" y="50" key="CommitChangelistDialog2" timestamp="1585181862658">
+    <state x="295" y="50" key="CommitChangelistDialog2" timestamp="1585182013489">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="295" y="50" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585181862658" />
+    <state x="295" y="50" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585182013489" />
     <state x="431" y="173" key="MultipleFileMergeDialog" timestamp="1585181941365">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
