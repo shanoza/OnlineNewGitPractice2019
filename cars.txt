@@ -1,4 +1,5 @@
 Toyota Corolla
+<<<<<<< HEAD
 Audi R8
 Tesla
 BMW 3
@@ -7,3 +8,7 @@ Mercedes S500
 Kia Optima
 Lexus GX470
 Range Rover Velar
+=======
+BMW X5
+BMW X6
+>>>>>>> NewBranch_1

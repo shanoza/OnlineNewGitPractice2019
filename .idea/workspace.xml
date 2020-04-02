@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="8ffdba11-e4cf-42cd-81a8-bdc1d50045cc" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="8ffdba11-e4cf-42cd-81a8-bdc1d50045cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cars.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cars.txt" afterDir="false" />
+    </list>
+>>>>>>> NewBranch_1
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,9 +118,13 @@
       <map>
         <entry key="MAIN">
           <value>
+<<<<<<< HEAD
             <State>
               <option name="COLUMN_ORDER" />
             </State>
+=======
+            <State />
+>>>>>>> NewBranch_1
           </value>
         </entry>
       </map>
@@ -125,14 +136,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="New Commit My Master" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="320" y="115" key="#Project_Structure" timestamp="1585784272073">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1585784272073" />
+=======
+    <state x="320" y="115" key="#Project_Structure" timestamp="1583976054772">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1583976054772" />
+>>>>>>> NewBranch_1
     <state x="295" y="50" key="CommitChangelistDialog2" timestamp="1585182013489">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="295" y="50" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585182013489" />
+<<<<<<< HEAD
     <state x="144" y="79" key="MergeDialog" timestamp="1585186369880">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -141,13 +160,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="431" y="173" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1585186369900" />
+=======
+    <state x="431" y="173" key="MultipleFileMergeDialog" timestamp="1585181941365">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="431" y="173" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1585181941365" />
+>>>>>>> NewBranch_1
     <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1585183473513">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1585183473513" />
+<<<<<<< HEAD
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585186354437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1585186354437" />
+=======
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585183561090">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1585183561090" />
+>>>>>>> NewBranch_1
   </component>
 </project>
